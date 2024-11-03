@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm N D S Surya Sarvan</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A Passionate and User-Centric Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvansurya&label=Profile%20views&color=0e75b6&style=flat" alt="sarvansurya" /> </p>
 
@@ -19,9 +19,14 @@
   </a>
 </div>
 
+ ## 📝 Professional Overview
+B.Tech Computer Science and Engineering student at K L University with a CGPA of 9.84, skilled in Java Full Stack and Python web development. Experienced with frameworks such as Spring Boot, Hibernate, and Django, as well as SQL databases and AWS Cloud services. Developed impactful projects including Urban Compass, a smart city guide, and EduSphere, a Django-based academic management system improving data management and academic administration processes. Recognized as a Code For Good 2024 finalist with JP Morgan Chase and honored with a Merit Award from K L University for academic performance. Holds certifications as an AWS Cloud Practitioner and RedHat Certified Enterprise Application Developer, highlighting expertise in cloud and Java enterprise technologies.
 
-<h3 align="left">🧑‍💻 Languages-Frameworks-Tools</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<h2>🧑‍💻 Languages-Frameworks-Tools</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,c,spring,django,postman,git,github,mysql,aws,html,css,postgres" />
+</div>
 
 <h2>💻 Coding profiles</h2>
 <p align="center">
@@ -36,6 +41,23 @@
   </a>
  </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvansurya&show_icons=true&locale=en&layout=compact" alt="sarvansurya" /></p>
+ ## 📚 Education
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvansurya&" alt="sarvansurya" /></p>
+**KL University, Vijayawada** | 2021 - Present
+- B. Tech in Computer Science and Engineering
+- **CGPA:** 9.84/10
+
+**Prathibha Junior College** | 2019 - 2021
+- XII - MPC
+- **Marks:** 956/1000
+ 
+## ⚡ Badges
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+    <div style="display: flex; gap: 10px;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvanSurya&layout=compact&theme=dark" alt="SarvanSurya" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SarvanSurya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
+    </div>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SarvanSurya&theme=dark" alt="SarvanSurya" />
+</div>
+
